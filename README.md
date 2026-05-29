@@ -51,11 +51,9 @@
   <a href="https://www.linkedin.com/in/pranjali-bhatt-b135222ab/">
     <img src="https://img.shields.io/badge/LinkedIn-c8e6f9?style=for-the-badge&logo=linkedin&logoColor=1a4a7d" />
   </a>
-  &nbsp;
   <a href="mailto:pranjalibhatt09@gmail.com">
     <img src="https://img.shields.io/badge/Email-f8c8d4?style=for-the-badge&logo=gmail&logoColor=7d3c5e" />
   </a>
-  &nbsp;
   <a href="https://github.com/Pranjali2309">
     <img src="https://img.shields.io/badge/GitHub-ede9fe?style=for-the-badge&logo=github&logoColor=3a1a7d" />
   </a>
