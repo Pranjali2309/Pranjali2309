@@ -87,19 +87,21 @@ Module 9 — Mock Tests & Exam Prep      ⏳ Week 10
 
 ---
 
-### 🤝 Let's Connect
+## 🤝 Let's Connect
 
-<p>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HERE">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/pranjali-bhatt-b135222ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-c8e6f9?style=for-the-badge&logo=linkedin&logoColor=1a4a7d" />
   </a>
-  <a href="mailto:YOUR-EMAIL-HERE">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;
+  <a href="mailto:pranjalibhatt09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-f8c8d4?style=for-the-badge&logo=gmail&logoColor=7d3c5e" />
   </a>
+  &nbsp;
   <a href="https://github.com/Pranjali2309">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-ede9fe?style=for-the-badge&logo=github&logoColor=3a1a7d" />
   </a>
-</p>
+</div>
 
 ---
 
