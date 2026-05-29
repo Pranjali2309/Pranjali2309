@@ -36,10 +36,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranjali2309&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjali2309&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=Pranjali2309&cc=000&tc=6366f1&ic=fff&bc=000" height="160"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjali2309&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 ---
 
 ## 🤝 Let's Connect
