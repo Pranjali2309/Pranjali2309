@@ -17,22 +17,6 @@
 - 📍 Based in Jaipur, India
 - 🎯 Target: AWS Certified by **July 2026**
 - 💼 Actively looking for **Cloud / AWS internships**
-- 🌱 Learning every day with iStudio Academy
-
----
-
-### 🛠️ AWS Services I'm Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_VPC-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Route_53-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
 
 ---
 
@@ -46,35 +30,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
----
-
-### 🚀 My AWS Projects
-
-| Project | Description | Services Used |
-|--------|-------------|---------------|
-| 🌦️ [WeatherRepo](https://github.com/Pranjali2309/WeatherRepo) | Weather web app | HTML, CSS, JS |
-| ☁️ AWS IAM Lab *(coming soon)* | IAM users, roles & MFA setup | IAM, CLI |
-| 🌐 AWS VPC Lab *(coming soon)* | Custom VPC with public/private subnets | VPC, EC2 |
-| ⚡ Serverless API *(coming soon)* | REST API with Lambda + DynamoDB | Lambda, API Gateway, DynamoDB |
-| 🏗️ 3-Tier Architecture *(coming soon)* | Full production-grade AWS app | EC2, ALB, RDS, S3, CloudFront |
-
----
-
-### 📈 My AWS Learning Roadmap
-
-```
-Module 1 — IAM & Cloud Fundamentals    ✅ Starting now
-Module 2 — EC2 & Compute               ⏳ Week 2
-Module 3 — S3 & Storage                ⏳ Week 3
-Module 4 — RDS & Databases             ⏳ Week 4
-Module 5 — VPC & Networking            ⏳ Week 5
-Module 6 — Architecture & HA           ⏳ Week 6-7
-Module 7 — Security & Compliance       ⏳ Week 8
-Module 8 — End-to-End Project          ⏳ Week 9
-Module 9 — Mock Tests & Exam Prep      ⏳ Week 10
-🎯 AWS SAA-C03 EXAM                    July 2026
-```
 
 ---
 
