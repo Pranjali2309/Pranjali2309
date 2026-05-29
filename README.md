@@ -45,16 +45,16 @@
 
 ---
 
-## 🤝 Let's Connect
+### 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pranjali-bhatt-b135222ab/">
+  <a href="https://www.linkedin.com/in/pranjali-bhatt-b135222ab/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-c8e6f9?style=for-the-badge&logo=linkedin&logoColor=1a4a7d" />
   </a>
-  <a href="mailto:pranjalibhatt09@gmail.com">
+  <a href="mailto:pranjalibhatt09@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Email-f8c8d4?style=for-the-badge&logo=gmail&logoColor=7d3c5e" />
   </a>
-  <a href="https://github.com/Pranjali2309">
+  <a href="https://github.com/Pranjali2309" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/GitHub-ede9fe?style=for-the-badge&logo=github&logoColor=3a1a7d" />
   </a>
 </div>
