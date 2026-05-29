@@ -65,6 +65,3 @@
   <i>"The cloud is not a place, it's a way of doing IT — and I'm learning it one service at a time."</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranjali2309&color=6366f1&style=flat-square&label=Profile+Views" />
-</p>
